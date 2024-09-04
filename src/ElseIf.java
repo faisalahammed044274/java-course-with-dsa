@@ -8,12 +8,12 @@ public class ElseIf {
         int b = sc.nextInt();
         if (a == b) {
             System.out.println("A & B are equals.");
-    } else{
- if (a > b) {
-    System.out.println("A is greater than B.");
- } else {
-    System.out.println("A is lesser than B");
- }
+        } else if (a > b) {
+            System.out.println("A is greater than B.");
+        } else if (a < b) {
+            System.out.println("A is smaller than B.");
+        } else {
+            System.out.println("Somthing Massed up");
+        }
     }
-}
 }
