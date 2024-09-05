@@ -21,5 +21,4 @@ public class Pattern {
                 }
                 System.out.print("\n");
         }
-
     }}
