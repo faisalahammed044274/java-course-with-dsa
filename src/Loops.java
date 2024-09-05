@@ -1,4 +1,3 @@
-
 public class Loops {
     public static void main(String args[]){
         // for (int PrintHello =0; PrintHello<3; PrintHello++) {
@@ -12,36 +11,12 @@ public class Loops {
         //     System.out.println(i);
         // }
 
-        // int x = 1;
+        int x = 1;
 
-        // while (x <= 8) {
-        //    System.out.println(x);
-        //    x++;
-        // }
+        while (x <= 8) {
+           System.out.println(x);
+        }
 
-        // int myroot = 10;
-
-        // while (myroot <= 20) {
-        //     System.out.println(myroot);
-        //     myroot++;
-        // }
-
-
-        // int i = 5;
-
-        // do { 
-        //     System.out.println(i);
-        //     i++;
-        // } while (i < 11);
-
-// Scanner sc = new Scanner(System.in);
-// int n = sc.nextInt();
-
-// int sum = 0;
-// for (int i = 0; i<=n; i++){
-//     sum = sum + i;
-// }
-// System.out.println(sum)
 
 
 }}
